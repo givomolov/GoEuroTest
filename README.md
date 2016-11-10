@@ -1,5 +1,3 @@
-# GoEuroTest
-This is the test project for goeuro
 
 It is getting locations for specified city from rest service then export result to csv file.
 
